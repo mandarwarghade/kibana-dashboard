@@ -1,3 +1,3 @@
 # kibana-dashboard
 
-![](image.PNG)
+![](image.png)
